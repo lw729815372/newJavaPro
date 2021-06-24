@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("Hello again!");
         System.out.println("Hello hot-fix branch");
+        System.out.println("Push test");
     }
 }
