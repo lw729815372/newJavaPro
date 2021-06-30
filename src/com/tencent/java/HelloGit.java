@@ -5,6 +5,6 @@ public class HelloGit {
         System.out.println("Hello Git!");
         System.out.println("Hello hot-fix branch");
         System.out.println("上传本地分支到远程分支");
-        System.out.println("直接push测试");
+        System.out.println("直接push测试！！！！");
     }
 }
